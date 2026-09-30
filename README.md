@@ -4,7 +4,9 @@ A fast, lightweight Android app that compresses videos to a target file size usi
 
 I built this for myself because online compressors like Compress2go sometimes have slow download speeds. The code is AI-generated and personalized for my own use, and I'm sharing it in case it helps someone else.
 
-![Video Compressor](img.jpg)
+<p align="center">
+  <img src="img.jpg" alt="Video Compressor" width="250">
+</p>
 
 ## Download
 
