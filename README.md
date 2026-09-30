@@ -8,7 +8,16 @@ I built this for myself because online compressors like Compress2go sometimes ha
 
 ## Download
 
-Get the latest APK from the **[Releases page](https://github.com/Akki-Maharaj/Video-compressor/releases/latest)**.
+<p align="center">
+  <a href="https://github.com/Akki-Maharaj/Video-compressor/releases/latest/download/VideoCompressor.apk">
+    <img src="https://img.shields.io/badge/Download-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+  </a>
+  <a href="https://github.com/Akki-Maharaj/Video-compressor/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Akki-Maharaj/Video-compressor?style=for-the-badge&label=Latest" alt="Latest version">
+  </a>
+</p>
+
+Tap the green button to download the latest `VideoCompressor.apk` directly. The second badge shows the current version and links to the release notes.
 
 ### Install
 
